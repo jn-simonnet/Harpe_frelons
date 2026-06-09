@@ -93,7 +93,7 @@ Ce dispositif fonctionne sous **haute tension (≈ 2 000 V)**. Le contact est da
 
 ## 📜 Licence & contact
 
-**Tous les fichiers de ce dépôt** (documents, présentation, modèles 3D, nomenclature) sont publiés sous licence **GNU General Public License v3.0 (GPL v3)**.
+**Tous les fichiers de ce dépôt** (documents, présentation, modèles 3D, nomenclature) sont publiés sous licence **GNU Affero General Public License v3.0 (AGPL v3)**.
 
 Vous êtes libre de les utiliser, les modifier et les redistribuer — y compris à des fins commerciales — à condition de conserver cette licence et d'en créditer l'auteur ; toute œuvre dérivée doit être distribuée sous la même licence **GPL v3**. Le projet est fourni **sans aucune garantie**, dans la mesure permise par la loi.
 
